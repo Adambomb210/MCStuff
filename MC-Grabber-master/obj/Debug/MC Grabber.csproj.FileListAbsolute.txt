@@ -1,0 +1,8 @@
+D:\Ramdom (posibaly dangurous) junk\MC-Grabber-master\bin\Debug\MC Grabber.exe.config
+D:\Ramdom (posibaly dangurous) junk\MC-Grabber-master\bin\Debug\MC Grabber.exe
+D:\Ramdom (posibaly dangurous) junk\MC-Grabber-master\bin\Debug\MC Grabber.pdb
+D:\Ramdom (posibaly dangurous) junk\MC-Grabber-master\obj\Debug\MC Grabber.csproj.AssemblyReference.cache
+D:\Ramdom (posibaly dangurous) junk\MC-Grabber-master\obj\Debug\MC Grabber.csproj.SuggestedBindingRedirects.cache
+D:\Ramdom (posibaly dangurous) junk\MC-Grabber-master\obj\Debug\MC Grabber.csproj.CoreCompileInputs.cache
+D:\Ramdom (posibaly dangurous) junk\MC-Grabber-master\obj\Debug\MC Grabber.exe
+D:\Ramdom (posibaly dangurous) junk\MC-Grabber-master\obj\Debug\MC Grabber.pdb
